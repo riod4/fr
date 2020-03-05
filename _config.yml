@@ -1,5 +1,5 @@
 # Basic Settings
-title: dario.pw • Protéger les données personnelles • Développer votre entreprise
+title: dario.best • Protéger les données personnelles • Développer votre entreprise
 description: Nous optimisons vos programmes de confidentialité et de conformité des données, augmentant la confiance en votre entreprise et les opportunités de croissances.
 author: dario
 # Language format language_TERRITORY. Default is en_US
@@ -8,9 +8,9 @@ lang: fr_CA
 logo: img/chklst.png
 image: img/header.jpg
 # urls
-url: https://dario.pw
-english_url: https://riod4.github.io/
-french_url: https://riod4fr.github.io/
+url: http://dario.best/fr
+english_url: http//dario.best
+french_url: http://dario.best/fr
 baseurl: ''
 resources_url: 'resources'
 services_url: 'services'
@@ -19,10 +19,10 @@ services_url: 'services'
 copyright: dario.pw
 
 # email address
-email: contact@dario.pw
-email_username: contact@dario.pw
+email: contact@dario.best
+email_username: contact@dario.best
 # email address in privacy policy
-email_privacy: privacy@dario.pw
+email_privacy: privacy@dario.best
 
 # contact telephone number
 telephone_number:
