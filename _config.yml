@@ -8,9 +8,9 @@ lang: fr_CA
 logo: img/chklst.png
 image: img/header.jpg
 # urls
-url: http://dario.best/fr
-english_url: http//dario.best
-french_url: http://dario.best/fr
+url: http://www.dario.best
+english_url: ''
+french_url: /fr
 baseurl: ''
 resources_url: 'resources'
 services_url: 'services'
