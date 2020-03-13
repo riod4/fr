@@ -8,7 +8,7 @@ lang: fr_CA
 logo: img/chklst.png
 image: img/header.jpg
 # urls
-url: https://www.dario.best
+url: http://dario.best
 english_url: ''
 french_url: /fr
 baseurl: ''
@@ -27,8 +27,8 @@ email_privacy: privacy@dario.best
 # contact telephone number
 telephone_number:
 
-# search tracking id for dario.pw ??? make sure to change
-google_tracking_id: UA-98131817-4
+# search tracking id for dario.best Make sure to change to .com
+google_tracking_id: UA-98131817-5
 
 webmaster_verifications:
   google: jKNeXGKZ4e1CsWLJx1vciAX-AIUBkpglQ_LG5jZfQKc
