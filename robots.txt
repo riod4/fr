@@ -1,5 +1,0 @@
-Sitemap: https://dario.com/sitemap.xml
-User-Agent: ia_archiver
-Disallow: /
-User-agent: *
-Disallow: /
