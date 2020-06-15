@@ -8,7 +8,7 @@ lang: fr_CA
 logo: img/chklst.png
 image: img/header.jpg
 # urls
-url: http://dario.com
+url: https://dario.com
 english_url: ''
 french_url: /fr
 baseurl: ''
@@ -22,7 +22,7 @@ copyright: dario.com
 email: contact@dario.com
 email_username: contact@dario.com
 # email address in privacy policy
-email_privacy: privacy@dario.com
+email_privacy: contact@dario.com
 
 # contact telephone number
 telephone_number:
@@ -39,7 +39,6 @@ webmaster_verifications:
 
 # Social/SEO
 twitter_username: darioS3C
-github_username:
 facebook_username:
 
 twitter:
