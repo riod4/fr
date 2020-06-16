@@ -10,9 +10,12 @@ image: img/header.jpg
 # urls
 url: https://dario.com
 english_url: ''
+# french landing page
 french_url: /fr
 baseurl: ''
+# french resources page
 resources_url: 'resources'
+# french services page
 services_url: 'fr-services'
 
 # copyright text in footer
