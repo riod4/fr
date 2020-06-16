@@ -13,7 +13,7 @@ english_url: ''
 french_url: /fr
 baseurl: ''
 resources_url: 'resources'
-services_url: 'services'
+services_url: 'fr-services'
 
 # copyright text in footer
 copyright: dario.com
